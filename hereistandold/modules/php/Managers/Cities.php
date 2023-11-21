@@ -5,7 +5,7 @@ use HIS\Managers\Tokens;
 use HIS\Models\City;
 
 /*
- * Cities: all utility functions concerning cities
+ * Cities: all utility functions concerning cities (just testing if pushing still works)
  */
 
 class Cities {
